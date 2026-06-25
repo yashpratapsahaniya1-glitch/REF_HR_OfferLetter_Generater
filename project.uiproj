@@ -1,0 +1,6 @@
+{
+  "Name": "REF_HR_OfferLetter_Generater",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework HR_OfferLetter_Generater  Dispatcher or perfomer",
+  "MainFile": "Main.xaml"
+}
